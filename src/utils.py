@@ -15,3 +15,6 @@ def mul(a,b):
 
     #works
     print(a*b)
+
+def onegen():
+    print("Hello sTRAnger")
