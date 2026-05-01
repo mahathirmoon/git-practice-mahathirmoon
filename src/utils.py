@@ -5,3 +5,7 @@ def add (a,b):
 
 def subtract (a,b):
     print(a-b)
+
+
+def mul(a,b):
+    print(a*b)

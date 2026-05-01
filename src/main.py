@@ -5,3 +5,4 @@ print("1st May 2026")
 
 utils.add(2,3)
 utils.subtract(5,1)
+utils.mul(2,3)
